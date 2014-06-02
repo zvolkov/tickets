@@ -1,0 +1,16 @@
+﻿@section Scripts{
+    <link href="~/Content/signin.css" rel="stylesheet" />
+}
+
+<div class="container">
+    @using(Html.BeginForm("Login", "Account", new { returnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new {@class="form-signin", role="form"})){
+        @Html.AntiForgeryToken()        
+        <h2 class="form-signin-heading">Please sign in</h2>
+        <input type="text" class="form-control" name="login" placeholder="Login" required autofocus>
+        <input type="password" class="form-control" name="password" placeholder="Password" required>
+        <label class="checkbox">
+            <input type="checkbox" value="remember-me"> Remember me
+        </label>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+    }
+</div>

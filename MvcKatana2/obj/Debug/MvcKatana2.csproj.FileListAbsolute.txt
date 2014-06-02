@@ -1,0 +1,236 @@
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\MvcKatana2.dll.config
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\MvcKatana2.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\MvcKatana2.pdb
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Diagnostics.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Newtonsoft.Json.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Owin.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Net.Http.Formatting.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Helpers.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Http.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Http.Owin.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Mvc.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Razor.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Webpages.Deployment.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Webpages.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Webpages.Razor.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Diagnostics.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Net.Http.Formatting.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Http.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Http.Owin.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Razor.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Webpages.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Webpages.Deployment.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Webpages.Razor.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Helpers.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\System.Web.Mvc.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Newtonsoft.Json.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.pdb
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Autofac.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Autofac.Integration.WebApi.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\DotNetDoodle.Owin.Dependencies.Adapters.WebApi.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\DotNetDoodle.Owin.Dependencies.Autofac.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\DotNetDoodle.Owin.Dependencies.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Microsoft.Web.Infrastructure.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Autofac.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Autofac.Integration.WebApi.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Autofac.Integration.Mvc.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Autofac.Integration.Mvc.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Elmah.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Elmah.Contrib.WebApi.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Elmah.Contrib.WebApi.pdb
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Elmah.Contrib.WebApi.xml
+D:\Src\Experiments\MvcKatana2\MvcKatana2\bin\Elmah.Contrib.Mvc.dll
+D:\Src\Experiments\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.csprojResolveAssemblyReference.cache
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\MvcKatana2.dll.config
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\MvcKatana2.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\MvcKatana2.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Autofac.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Autofac.Integration.Mvc.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Autofac.Integration.WebApi.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Elmah.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Newtonsoft.Json.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Owin.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Net.Http.Formatting.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.Helpers.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.Http.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.Http.WebHost.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.Mvc.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.Razor.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Autofac.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Autofac.Integration.Mvc.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Autofac.Integration.WebApi.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\Newtonsoft.Json.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Net.Http.Formatting.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.Helpers.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.Http.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.Http.WebHost.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.Mvc.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.Razor.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.csprojResolveAssemblyReference.cache
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\SharpRaven.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\SharpRaven.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\bin\SharpRaven.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\MvcKatana2.dll.config
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\MvcKatana2.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\MvcKatana2.pdb
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.Integration.Mvc.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.Integration.WebApi.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Elmah.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Newtonsoft.Json.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Owin.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\SharpRaven.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Net.Http.Formatting.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Helpers.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Http.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Http.WebHost.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Mvc.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Razor.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.Integration.Mvc.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.Integration.WebApi.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\Newtonsoft.Json.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\SharpRaven.pdb
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\SharpRaven.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Net.Http.Formatting.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Helpers.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Http.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Http.WebHost.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Mvc.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Razor.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.csprojResolveAssemblyReference.cache
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.dll
+C:\Users\Andriy\SkyDrive\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.pdb
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\MvcKatana2.dll.config
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\MvcKatana2.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\MvcKatana2.pdb
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Antlr3.Runtime.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.Integration.Mvc.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.Integration.WebApi.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Elmah.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Newtonsoft.Json.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Owin.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\SharpRaven.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Net.Http.Formatting.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Helpers.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Http.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Http.WebHost.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Mvc.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Optimization.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Razor.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Razor.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\WebGrease.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Antlr3.Runtime.pdb
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.Integration.Mvc.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Autofac.Integration.WebApi.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\Newtonsoft.Json.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\SharpRaven.pdb
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\SharpRaven.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Net.Http.Formatting.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Helpers.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Http.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Http.WebHost.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Mvc.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Optimization.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.Razor.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\System.Web.WebPages.Razor.xml
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.csprojResolveAssemblyReference.cache
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.dll
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\obj\Debug\MvcKatana2.pdb
+C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\bin\NPoco.dll

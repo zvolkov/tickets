@@ -1,0 +1,104 @@
+﻿<div class="container">
+
+    <div class="page-header">
+        <h1>@ViewBag.title</h1>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-4">
+            <section>
+                <h2>Backlog</h2>
+                <div class="list-group" data-bind="foreach:backlog">
+                    <div class="list-group-item">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <h4 class="list-group-item-heading">
+                                    <span class="label label-default" data-bind="text: id"></span>
+                                    <span data-bind="text: title"></span>
+                                </h4>
+                                <p class="list-group-item-text" data-bind="text: description"></p>
+                            </div>
+                            <div class="col-md-4">
+                                <button type="button" class="btn btn-default pull-right" data-bind="click: $root.changeState.bind($root, $data, 'working')">
+                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="col-md-4">
+            <section>
+                <h2>Working</h2>
+                <div class="list-group" data-bind="foreach:working">
+                    <div class="list-group-item">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <button type="button" class="btn btn-default pull-left" data-bind="click: $root.changeState.bind($root, $data, 'backlog')">
+                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                </button>
+                            </div>
+                            <div class="col-md-6">
+                                <h4 class="list-group-item-heading">
+                                    <span class="label label-default" data-bind="text: id"></span>
+                                    <span data-bind="text: title"></span>
+                                </h4>
+                                <p class="list-group-item-text" data-bind="text: description"></p>
+                            </div>
+                            <div class="col-md-3">
+                                <button type="button" class="btn btn-default pull-right" data-bind="click: $root.changeState.bind($root, $data, 'done')">
+                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                </button>                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="col-md-4">
+            <section>
+                <h2>Done</h2>
+                <div class="list-group" data-bind="foreach:done">
+                    <div class="list-group-item">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <button type="button" class="btn btn-default pull-left" data-bind="click: $root.changeState.bind($root, $data, 'working')">
+                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                </button>
+                            </div>                            
+                            <div class="col-md-8">
+                                <h4 class="list-group-item-heading">
+                                    <span class="label label-default" data-bind="text: id"></span>
+                                    <span data-bind="text: title"></span>
+                                </h4>
+                                <p class="list-group-item-text" data-bind="text: description"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script>
+        require(['ticketList', 'jquery', 'jquery.signalR'], function (TicketList, $) {
+            var vm = new TicketList();
+            vm.loadData();
+
+            $(function () {
+                vm.applyBindings();
+            });
+
+            var connection = $.hubConnection();
+            var hub = connection.createHubProxy('tickets');
+            hub.on('updated', function (ticket) {
+                vm.updateTicket(ticket);
+            });
+            connection.start();
+        });
+    </script>
+}

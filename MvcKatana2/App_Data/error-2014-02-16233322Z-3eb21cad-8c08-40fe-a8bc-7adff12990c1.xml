@@ -1,0 +1,176 @@
+﻿<error errorId="3eb21cad-8c08-40fe-a8bc-7adff12990c1" application="/LM/W3SVC/5/ROOT" host="BODHI" type="System.ApplicationException" message="Hello web api!" source="MvcKatana2" detail="System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---&gt; System.ApplicationException: Hello web api!&#xD;&#xA;   at MvcKatana2.Controllers.BugsController.ChangeState(Bug b) in c:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\Controllers\BugsController.cs:line 29&#xD;&#xA;   at lambda_method(Closure , Object , Object[] )&#xD;&#xA;   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.&lt;&gt;c__DisplayClass10.&lt;GetExecutor&gt;b__9(Object instance, Object[] methodParameters)&#xD;&#xA;   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)&#xD;&#xA;   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)&#xD;&#xA;--- End of stack trace from previous location where exception was thrown ---&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()&#xD;&#xA;   at System.Web.Http.Controllers.ApiControllerActionInvoker.&lt;InvokeActionAsyncCore&gt;d__0.MoveNext()&#xD;&#xA;--- End of stack trace from previous location where exception was thrown ---&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()&#xD;&#xA;   at System.Web.Http.Controllers.ActionFilterResult.&lt;ExecuteAsync&gt;d__2.MoveNext()&#xD;&#xA;--- End of stack trace from previous location where exception was thrown ---&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()&#xD;&#xA;   at System.Web.Http.Filters.AuthorizationFilterAttribute.&lt;ExecuteAuthorizationFilterAsyncCore&gt;d__2.MoveNext()&#xD;&#xA;--- End of stack trace from previous location where exception was thrown ---&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)&#xD;&#xA;   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()&#xD;&#xA;   at System.Web.Http.Dispatcher.HttpControllerDispatcher.&lt;SendAsync&gt;d__0.MoveNext()" time="2014-02-16T23:33:22.6215344Z" statusCode="500" webHostHtmlMessage="&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;    &lt;head&gt;&#xD;&#xA;        &lt;title&gt;Hello web api!&lt;/title&gt;&#xD;&#xA;        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;&#xD;&#xA;        &lt;style&gt;&#xD;&#xA;         body {font-family:&quot;Verdana&quot;;font-weight:normal;font-size: .7em;color:black;} &#xD;&#xA;         p {font-family:&quot;Verdana&quot;;font-weight:normal;color:black;margin-top: -5px}&#xD;&#xA;         b {font-family:&quot;Verdana&quot;;font-weight:bold;color:black;margin-top: -5px}&#xD;&#xA;         H1 { font-family:&quot;Verdana&quot;;font-weight:normal;font-size:18pt;color:red }&#xD;&#xA;         H2 { font-family:&quot;Verdana&quot;;font-weight:normal;font-size:14pt;color:maroon }&#xD;&#xA;         pre {font-family:&quot;Consolas&quot;,&quot;Lucida Console&quot;,Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}&#xD;&#xA;         .marker {font-weight: bold; color: black;text-decoration: none;}&#xD;&#xA;         .version {color: gray;}&#xD;&#xA;         .error {margin-bottom: 10px;}&#xD;&#xA;         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:hand; }&#xD;&#xA;         @media screen and (max-width: 639px) {&#xD;&#xA;          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }&#xD;&#xA;         }&#xD;&#xA;         @media screen and (max-width: 479px) {&#xD;&#xA;          pre { width: 280px; }&#xD;&#xA;         }&#xD;&#xA;        &lt;/style&gt;&#xD;&#xA;    &lt;/head&gt;&#xD;&#xA;&#xD;&#xA;    &lt;body bgcolor=&quot;white&quot;&gt;&#xD;&#xA;&#xD;&#xA;            &lt;span&gt;&lt;H1&gt;Server Error in '/' Application.&lt;hr width=100% size=1 color=silver&gt;&lt;/H1&gt;&#xD;&#xA;&#xD;&#xA;            &lt;h2&gt; &lt;i&gt;Hello web api!&lt;/i&gt; &lt;/h2&gt;&lt;/span&gt;&#xD;&#xA;&#xD;&#xA;            &lt;font face=&quot;Arial, Helvetica, Geneva, SunSans-Regular, sans-serif &quot;&gt;&#xD;&#xA;&#xD;&#xA;            &lt;b&gt; Description: &lt;/b&gt;An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.&#xD;&#xA;&#xD;&#xA;            &lt;br&gt;&lt;br&gt;&#xD;&#xA;&#xD;&#xA;            &lt;b&gt; Exception Details: &lt;/b&gt;System.ApplicationException: Hello web api!&lt;br&gt;&lt;br&gt;&#xD;&#xA;&#xD;&#xA;            &lt;b&gt;Source Error:&lt;/b&gt; &lt;br&gt;&lt;br&gt;&#xD;&#xA;&#xD;&#xA;            &lt;table width=100% bgcolor=&quot;#ffffcc&quot;&gt;&#xD;&#xA;               &lt;tr&gt;&#xD;&#xA;                  &lt;td&gt;&#xD;&#xA;                      &lt;code&gt;&lt;pre&gt;&#xD;&#xA;&#xD;&#xA;Line 27:         public Bug ChangeState(Bug b)&#xD;&#xA;Line 28:         {&#xD;&#xA;&lt;font color=red&gt;Line 29:             throw new ApplicationException(&amp;quot;Hello web api!&amp;quot;);&#xD;&#xA;&lt;/font&gt;Line 30:             var bug = _bugsRepository.GetBugs().First(x =&amp;gt; x.id == b.id);&#xD;&#xA;Line 31:             bug.state = b.state;&lt;/pre&gt;&lt;/code&gt;&#xD;&#xA;&#xD;&#xA;                  &lt;/td&gt;&#xD;&#xA;               &lt;/tr&gt;&#xD;&#xA;            &lt;/table&gt;&#xD;&#xA;&#xD;&#xA;            &lt;br&gt;&#xD;&#xA;&#xD;&#xA;            &lt;b&gt; Source File: &lt;/b&gt; c:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\Controllers\BugsController.cs&lt;b&gt; &amp;nbsp;&amp;nbsp; Line: &lt;/b&gt; 29&#xD;&#xA;            &lt;br&gt;&lt;br&gt;&#xD;&#xA;&#xD;&#xA;            &lt;b&gt;Stack Trace:&lt;/b&gt; &lt;br&gt;&lt;br&gt;&#xD;&#xA;&#xD;&#xA;            &lt;table width=100% bgcolor=&quot;#ffffcc&quot;&gt;&#xD;&#xA;               &lt;tr&gt;&#xD;&#xA;                  &lt;td&gt;&#xD;&#xA;                      &lt;code&gt;&lt;pre&gt;&#xD;&#xA;&#xD;&#xA;[ApplicationException: Hello web api!]&#xD;&#xA;   MvcKatana2.Controllers.BugsController.ChangeState(Bug b) in c:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\Controllers\BugsController.cs:29&#xD;&#xA;   lambda_method(Closure , Object , Object[] ) +180&#xD;&#xA;   System.Web.Http.Controllers.&amp;lt;&amp;gt;c__DisplayClass10.&amp;lt;GetExecutor&amp;gt;b__9(Object instance, Object[] methodParameters) +84&#xD;&#xA;   System.Web.Http.Controllers.ActionExecutor.Execute(Object instance, Object[] arguments) +59&#xD;&#xA;   System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken) +252&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task) +93&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task) +52&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter`1.GetResult() +24&#xD;&#xA;   System.Web.Http.Controllers.&amp;lt;InvokeActionAsyncCore&amp;gt;d__0.MoveNext() +510&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task) +93&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task) +52&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter`1.GetResult() +24&#xD;&#xA;   System.Web.Http.Controllers.&amp;lt;ExecuteAsync&amp;gt;d__2.MoveNext() +657&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task) +93&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task) +52&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter`1.GetResult() +24&#xD;&#xA;   System.Web.Http.Filters.&amp;lt;ExecuteAuthorizationFilterAsyncCore&amp;gt;d__2.MoveNext() +551&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task) +93&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task) +52&#xD;&#xA;   System.Runtime.CompilerServices.TaskAwaiter`1.GetResult() +24&#xD;&#xA;   System.Web.Http.Dispatcher.&amp;lt;SendAsync&amp;gt;d__0.MoveNext() +381&#xD;&#xA;&lt;/pre&gt;&lt;/code&gt;&#xD;&#xA;&#xD;&#xA;                  &lt;/td&gt;&#xD;&#xA;               &lt;/tr&gt;&#xD;&#xA;            &lt;/table&gt;&#xD;&#xA;&#xD;&#xA;            &lt;br&gt;&#xD;&#xA;&#xD;&#xA;    &lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xD;&#xA;">
+  <serverVariables>
+    <item name="ALL_HTTP">
+      <value string="HTTP_CONNECTION:keep-alive&#xD;&#xA;HTTP_CONTENT_LENGTH:26&#xD;&#xA;HTTP_CONTENT_TYPE:application/json; charset=UTF-8&#xD;&#xA;HTTP_ACCEPT:application/json, text/javascript, */*; q=0.01&#xD;&#xA;HTTP_ACCEPT_ENCODING:gzip,deflate,sdch&#xD;&#xA;HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.8,ru;q=0.6&#xD;&#xA;HTTP_COOKIE:__RequestVerificationToken=EJKx8VA04YwVYMLj1371zSU6l3M0saeoRwOn9q8OQG9UmOyHveEa8i-pTPfCjOBF0zZb0GF0hhgUFtbCfkX5TqZ6QCSwo-JRxnq0B36-INc1; .AspNet.ApplicationCookie=DCTzanxMZaVBqPcFgy1nq0388jq9SmUB96CXNDFA-HZAg1hKmFIAXWFDSov_bM1d01bekITA1UiXnglAppFvUz6SiWDcWf2PYVXdBZtmFvA5SgoAdDcVuHmN2XNEeStRr5bw15flnfwdvoKRssvxtuKvQQINZKOkun6uGLCkX2QgOyved5JL92N-VslScGtkmpRgC14JXBuTT3jE5XfFpIsYtF82LLPYq74lX1wBlZZ8bdepdgkbfm_PpFBf00G23AXGGGdj476an9PkRnuA2i8WCRwEuicTY6MXsvX6cbch43PuUBTI0s3P5jcXjeyG&#xD;&#xA;HTTP_HOST:localhost:64963&#xD;&#xA;HTTP_REFERER:http://localhost:64963/&#xD;&#xA;HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36&#xD;&#xA;HTTP_ORIGIN:http://localhost:64963&#xD;&#xA;HTTP_X_REQUESTED_WITH:XMLHttpRequest&#xD;&#xA;HTTP_DNT:1&#xD;&#xA;" />
+    </item>
+    <item name="ALL_RAW">
+      <value string="Connection: keep-alive&#xD;&#xA;Content-Length: 26&#xD;&#xA;Content-Type: application/json; charset=UTF-8&#xD;&#xA;Accept: application/json, text/javascript, */*; q=0.01&#xD;&#xA;Accept-Encoding: gzip,deflate,sdch&#xD;&#xA;Accept-Language: en-US,en;q=0.8,ru;q=0.6&#xD;&#xA;Cookie: __RequestVerificationToken=EJKx8VA04YwVYMLj1371zSU6l3M0saeoRwOn9q8OQG9UmOyHveEa8i-pTPfCjOBF0zZb0GF0hhgUFtbCfkX5TqZ6QCSwo-JRxnq0B36-INc1; .AspNet.ApplicationCookie=DCTzanxMZaVBqPcFgy1nq0388jq9SmUB96CXNDFA-HZAg1hKmFIAXWFDSov_bM1d01bekITA1UiXnglAppFvUz6SiWDcWf2PYVXdBZtmFvA5SgoAdDcVuHmN2XNEeStRr5bw15flnfwdvoKRssvxtuKvQQINZKOkun6uGLCkX2QgOyved5JL92N-VslScGtkmpRgC14JXBuTT3jE5XfFpIsYtF82LLPYq74lX1wBlZZ8bdepdgkbfm_PpFBf00G23AXGGGdj476an9PkRnuA2i8WCRwEuicTY6MXsvX6cbch43PuUBTI0s3P5jcXjeyG&#xD;&#xA;Host: localhost:64963&#xD;&#xA;Referer: http://localhost:64963/&#xD;&#xA;User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36&#xD;&#xA;Origin: http://localhost:64963&#xD;&#xA;X-Requested-With: XMLHttpRequest&#xD;&#xA;DNT: 1&#xD;&#xA;" />
+    </item>
+    <item name="APPL_MD_PATH">
+      <value string="/LM/W3SVC/5/ROOT" />
+    </item>
+    <item name="APPL_PHYSICAL_PATH">
+      <value string="C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\" />
+    </item>
+    <item name="AUTH_TYPE">
+      <value string="ApplicationCookie" />
+    </item>
+    <item name="AUTH_USER" />
+    <item name="AUTH_PASSWORD">
+      <value string="*****" />
+    </item>
+    <item name="LOGON_USER">
+      <value string="" />
+    </item>
+    <item name="REMOTE_USER" />
+    <item name="CERT_COOKIE">
+      <value string="" />
+    </item>
+    <item name="CERT_FLAGS">
+      <value string="" />
+    </item>
+    <item name="CERT_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SERIALNUMBER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CERT_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CONTENT_LENGTH">
+      <value string="26" />
+    </item>
+    <item name="CONTENT_TYPE">
+      <value string="application/json; charset=UTF-8" />
+    </item>
+    <item name="GATEWAY_INTERFACE">
+      <value string="CGI/1.1" />
+    </item>
+    <item name="HTTPS">
+      <value string="off" />
+    </item>
+    <item name="HTTPS_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="INSTANCE_ID">
+      <value string="5" />
+    </item>
+    <item name="INSTANCE_META_PATH">
+      <value string="/LM/W3SVC/5" />
+    </item>
+    <item name="LOCAL_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="PATH_INFO">
+      <value string="/api/bugs/changeState" />
+    </item>
+    <item name="PATH_TRANSLATED">
+      <value string="C:\Users\Andriy\Documents\Visual Studio 2013\Projects\MvcKatana2\MvcKatana2\api\bugs\changeState" />
+    </item>
+    <item name="QUERY_STRING">
+      <value string="" />
+    </item>
+    <item name="REMOTE_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_HOST">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_PORT">
+      <value string="50332" />
+    </item>
+    <item name="REQUEST_METHOD">
+      <value string="POST" />
+    </item>
+    <item name="SCRIPT_NAME">
+      <value string="/api/bugs/changeState" />
+    </item>
+    <item name="SERVER_NAME">
+      <value string="localhost" />
+    </item>
+    <item name="SERVER_PORT">
+      <value string="64963" />
+    </item>
+    <item name="SERVER_PORT_SECURE">
+      <value string="0" />
+    </item>
+    <item name="SERVER_PROTOCOL">
+      <value string="HTTP/1.1" />
+    </item>
+    <item name="SERVER_SOFTWARE">
+      <value string="Microsoft-IIS/8.0" />
+    </item>
+    <item name="URL">
+      <value string="/api/bugs/changeState" />
+    </item>
+    <item name="HTTP_CONNECTION">
+      <value string="keep-alive" />
+    </item>
+    <item name="HTTP_CONTENT_LENGTH">
+      <value string="26" />
+    </item>
+    <item name="HTTP_CONTENT_TYPE">
+      <value string="application/json; charset=UTF-8" />
+    </item>
+    <item name="HTTP_ACCEPT">
+      <value string="application/json, text/javascript, */*; q=0.01" />
+    </item>
+    <item name="HTTP_ACCEPT_ENCODING">
+      <value string="gzip,deflate,sdch" />
+    </item>
+    <item name="HTTP_ACCEPT_LANGUAGE">
+      <value string="en-US,en;q=0.8,ru;q=0.6" />
+    </item>
+    <item name="HTTP_COOKIE">
+      <value string="__RequestVerificationToken=EJKx8VA04YwVYMLj1371zSU6l3M0saeoRwOn9q8OQG9UmOyHveEa8i-pTPfCjOBF0zZb0GF0hhgUFtbCfkX5TqZ6QCSwo-JRxnq0B36-INc1; .AspNet.ApplicationCookie=DCTzanxMZaVBqPcFgy1nq0388jq9SmUB96CXNDFA-HZAg1hKmFIAXWFDSov_bM1d01bekITA1UiXnglAppFvUz6SiWDcWf2PYVXdBZtmFvA5SgoAdDcVuHmN2XNEeStRr5bw15flnfwdvoKRssvxtuKvQQINZKOkun6uGLCkX2QgOyved5JL92N-VslScGtkmpRgC14JXBuTT3jE5XfFpIsYtF82LLPYq74lX1wBlZZ8bdepdgkbfm_PpFBf00G23AXGGGdj476an9PkRnuA2i8WCRwEuicTY6MXsvX6cbch43PuUBTI0s3P5jcXjeyG" />
+    </item>
+    <item name="HTTP_HOST">
+      <value string="localhost:64963" />
+    </item>
+    <item name="HTTP_REFERER">
+      <value string="http://localhost:64963/" />
+    </item>
+    <item name="HTTP_USER_AGENT">
+      <value string="Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36" />
+    </item>
+    <item name="HTTP_ORIGIN">
+      <value string="http://localhost:64963" />
+    </item>
+    <item name="HTTP_X_REQUESTED_WITH">
+      <value string="XMLHttpRequest" />
+    </item>
+    <item name="HTTP_DNT">
+      <value string="1" />
+    </item>
+  </serverVariables>
+  <cookies>
+    <item name="__RequestVerificationToken">
+      <value string="EJKx8VA04YwVYMLj1371zSU6l3M0saeoRwOn9q8OQG9UmOyHveEa8i-pTPfCjOBF0zZb0GF0hhgUFtbCfkX5TqZ6QCSwo-JRxnq0B36-INc1" />
+    </item>
+    <item name=".AspNet.ApplicationCookie">
+      <value string="DCTzanxMZaVBqPcFgy1nq0388jq9SmUB96CXNDFA-HZAg1hKmFIAXWFDSov_bM1d01bekITA1UiXnglAppFvUz6SiWDcWf2PYVXdBZtmFvA5SgoAdDcVuHmN2XNEeStRr5bw15flnfwdvoKRssvxtuKvQQINZKOkun6uGLCkX2QgOyved5JL92N-VslScGtkmpRgC14JXBuTT3jE5XfFpIsYtF82LLPYq74lX1wBlZZ8bdepdgkbfm_PpFBf00G23AXGGGdj476an9PkRnuA2i8WCRwEuicTY6MXsvX6cbch43PuUBTI0s3P5jcXjeyG" />
+    </item>
+  </cookies>
+</error>

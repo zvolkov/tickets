@@ -1,0 +1,176 @@
+﻿<error errorId="6b386388-3d32-4978-9e36-d22ee6227eae" application="/LM/W3SVC/5/ROOT" host="FERN-SEB-2124" type="System.InvalidOperationException" message="Multiple actions were found that match the request: &#xD;&#xA;GetAll on type MvcKatana2.Controllers.BugsController&#xD;&#xA;ChangeState on type MvcKatana2.Controllers.BugsController" source="System.Web.Http" detail="System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---&gt; System.InvalidOperationException: Multiple actions were found that match the request: &#xD;&#xA;GetAll on type MvcKatana2.Controllers.BugsController&#xD;&#xA;ChangeState on type MvcKatana2.Controllers.BugsController&#xD;&#xA;   at System.Web.Http.Controllers.ApiControllerActionSelector.ActionSelectorCacheItem.SelectAction(HttpControllerContext controllerContext)&#xD;&#xA;   at System.Web.Http.Controllers.ApiControllerActionSelector.SelectAction(HttpControllerContext controllerContext)&#xD;&#xA;   at System.Web.Http.ApiController.ExecuteAsync(HttpControllerContext controllerContext, CancellationToken cancellationToken)&#xD;&#xA;   at System.Web.Http.Dispatcher.HttpControllerDispatcher.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)&#xD;&#xA;   at System.Web.Http.Dispatcher.HttpControllerDispatcher.&lt;SendAsync&gt;d__0.MoveNext()" time="2014-02-17T16:09:39.1805525Z" statusCode="500" webHostHtmlMessage="&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;    &lt;head&gt;&#xD;&#xA;        &lt;title&gt;Multiple actions were found that match the request: &lt;br&gt;GetAll on type MvcKatana2.Controllers.BugsController&lt;br&gt;ChangeState on type MvcKatana2.Controllers.BugsController&lt;/title&gt;&#xD;&#xA;        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;&#xD;&#xA;        &lt;style&gt;&#xD;&#xA;         body {font-family:&quot;Verdana&quot;;font-weight:normal;font-size: .7em;color:black;} &#xD;&#xA;         p {font-family:&quot;Verdana&quot;;font-weight:normal;color:black;margin-top: -5px}&#xD;&#xA;         b {font-family:&quot;Verdana&quot;;font-weight:bold;color:black;margin-top: -5px}&#xD;&#xA;         H1 { font-family:&quot;Verdana&quot;;font-weight:normal;font-size:18pt;color:red }&#xD;&#xA;         H2 { font-family:&quot;Verdana&quot;;font-weight:normal;font-size:14pt;color:maroon }&#xD;&#xA;         pre {font-family:&quot;Consolas&quot;,&quot;Lucida Console&quot;,Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}&#xD;&#xA;         .marker {font-weight: bold; color: black;text-decoration: none;}&#xD;&#xA;         .version {color: gray;}&#xD;&#xA;         .error {margin-bottom: 10px;}&#xD;&#xA;         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:hand; }&#xD;&#xA;         @media screen and (max-width: 639px) {&#xD;&#xA;          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }&#xD;&#xA;         }&#xD;&#xA;         @media screen and (max-width: 479px) {&#xD;&#xA;          pre { width: 280px; }&#xD;&#xA;         }&#xD;&#xA;        &lt;/style&gt;&#xD;&#xA;    &lt;/head&gt;&#xD;&#xA;&#xD;&#xA;    &lt;body bgcolor=&quot;white&quot;&gt;&#xD;&#xA;&#xD;&#xA;            &lt;span&gt;&lt;H1&gt;Server Error in '/' Application.&lt;hr width=100% size=1 color=silver&gt;&lt;/H1&gt;&#xD;&#xA;&#xD;&#xA;            &lt;h2&gt; &lt;i&gt;Multiple actions were found that match the request: &lt;br&gt;GetAll on type MvcKatana2.Controllers.BugsController&lt;br&gt;ChangeState on type MvcKatana2.Controllers.BugsController&lt;/i&gt; &lt;/h2&gt;&lt;/span&gt;&#xD;&#xA;&#xD;&#xA;            &lt;font face=&quot;Arial, Helvetica, Geneva, SunSans-Regular, sans-serif &quot;&gt;&#xD;&#xA;&#xD;&#xA;            &lt;b&gt; Description: &lt;/b&gt;An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.&#xD;&#xA;&#xD;&#xA;            &lt;br&gt;&lt;br&gt;&#xD;&#xA;&#xD;&#xA;            &lt;b&gt; Exception Details: &lt;/b&gt;System.InvalidOperationException: Multiple actions were found that match the request: &lt;br&gt;GetAll on type MvcKatana2.Controllers.BugsController&lt;br&gt;ChangeState on type MvcKatana2.Controllers.BugsController&lt;br&gt;&lt;br&gt;&#xD;&#xA;&#xD;&#xA;            &lt;b&gt;Source Error:&lt;/b&gt; &lt;br&gt;&lt;br&gt;&#xD;&#xA;&#xD;&#xA;            &lt;table width=100% bgcolor=&quot;#ffffcc&quot;&gt;&#xD;&#xA;               &lt;tr&gt;&#xD;&#xA;                  &lt;td&gt;&#xD;&#xA;                      &lt;code&gt;&#xD;&#xA;&#xD;&#xA;An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.&lt;/code&gt;&#xD;&#xA;&#xD;&#xA;                  &lt;/td&gt;&#xD;&#xA;               &lt;/tr&gt;&#xD;&#xA;            &lt;/table&gt;&#xD;&#xA;&#xD;&#xA;            &lt;br&gt;&#xD;&#xA;&#xD;&#xA;            &lt;b&gt;Stack Trace:&lt;/b&gt; &lt;br&gt;&lt;br&gt;&#xD;&#xA;&#xD;&#xA;            &lt;table width=100% bgcolor=&quot;#ffffcc&quot;&gt;&#xD;&#xA;               &lt;tr&gt;&#xD;&#xA;                  &lt;td&gt;&#xD;&#xA;                      &lt;code&gt;&lt;pre&gt;&#xD;&#xA;&#xD;&#xA;[InvalidOperationException: Multiple actions were found that match the request: &#xD;&#xA;GetAll on type MvcKatana2.Controllers.BugsController&#xD;&#xA;ChangeState on type MvcKatana2.Controllers.BugsController]&#xD;&#xA;   System.Web.Http.Controllers.ActionSelectorCacheItem.SelectAction(HttpControllerContext controllerContext) +330&#xD;&#xA;   System.Web.Http.Controllers.ApiControllerActionSelector.SelectAction(HttpControllerContext controllerContext) +141&#xD;&#xA;   System.Web.Http.ApiController.ExecuteAsync(HttpControllerContext controllerContext, CancellationToken cancellationToken) +500&#xD;&#xA;   System.Web.Http.Dispatcher.HttpControllerDispatcher.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken) +838&#xD;&#xA;   System.Web.Http.Dispatcher.&amp;lt;SendAsync&amp;gt;d__0.MoveNext() +195&#xD;&#xA;&lt;/pre&gt;&lt;/code&gt;&#xD;&#xA;&#xD;&#xA;                  &lt;/td&gt;&#xD;&#xA;               &lt;/tr&gt;&#xD;&#xA;            &lt;/table&gt;&#xD;&#xA;&#xD;&#xA;            &lt;br&gt;&#xD;&#xA;&#xD;&#xA;    &lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xD;&#xA;">
+  <serverVariables>
+    <item name="ALL_HTTP">
+      <value string="HTTP_CONNECTION:keep-alive&#xD;&#xA;HTTP_CONTENT_LENGTH:0&#xD;&#xA;HTTP_CONTENT_TYPE:application/json; charset=utf-8&#xD;&#xA;HTTP_ACCEPT:application/json, text/javascript, */*; q=0.01&#xD;&#xA;HTTP_ACCEPT_ENCODING:gzip,deflate,sdch&#xD;&#xA;HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.8,ru;q=0.6&#xD;&#xA;HTTP_COOKIE:__RequestVerificationToken=4PD_Jqz_Bn9876RMJbNZxuVcsBdD6h_70601wDRwHMPge1rp5cyBerSagKfw4JgyAvj22o47ZcyMjnem_R7UYPRYUSmRUWxAkFprAJTFFrU1; .AspNet.ApplicationCookie=iLL-DB05UkFEfPFv-8p8lG0e6sSRqP6928j1mbqoJWI8lhOX1tcahDjtwOYLMPC1CZyCUOek5MQV6gl-AFMUX9ATr7Wnm3EXkR-AeFM50vexI-HhFp6moYpCowUTDSmsx5nnfjr4at638G6OigQWWxMCbvAC7CZmOzrI-javIEb5gbGIK5RE-36pHNlDcXaBlYEHUZ7n7RixBztcqIcedO03IPJGR0sZqIMHDZ1FBwkf_coeLihChL6yg2Dus0yRjntms5pKlF_FEuCqrTA3kPGFGQGIAj7H6dtXi7nKftE&#xD;&#xA;HTTP_HOST:localhost:64963&#xD;&#xA;HTTP_REFERER:http://localhost:64963/&#xD;&#xA;HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36&#xD;&#xA;HTTP_ORIGIN:http://localhost:64963&#xD;&#xA;HTTP_X_REQUESTED_WITH:XMLHttpRequest&#xD;&#xA;HTTP_DNT:1&#xD;&#xA;" />
+    </item>
+    <item name="ALL_RAW">
+      <value string="Connection: keep-alive&#xD;&#xA;Content-Length: 0&#xD;&#xA;Content-Type: application/json; charset=utf-8&#xD;&#xA;Accept: application/json, text/javascript, */*; q=0.01&#xD;&#xA;Accept-Encoding: gzip,deflate,sdch&#xD;&#xA;Accept-Language: en-US,en;q=0.8,ru;q=0.6&#xD;&#xA;Cookie: __RequestVerificationToken=4PD_Jqz_Bn9876RMJbNZxuVcsBdD6h_70601wDRwHMPge1rp5cyBerSagKfw4JgyAvj22o47ZcyMjnem_R7UYPRYUSmRUWxAkFprAJTFFrU1; .AspNet.ApplicationCookie=iLL-DB05UkFEfPFv-8p8lG0e6sSRqP6928j1mbqoJWI8lhOX1tcahDjtwOYLMPC1CZyCUOek5MQV6gl-AFMUX9ATr7Wnm3EXkR-AeFM50vexI-HhFp6moYpCowUTDSmsx5nnfjr4at638G6OigQWWxMCbvAC7CZmOzrI-javIEb5gbGIK5RE-36pHNlDcXaBlYEHUZ7n7RixBztcqIcedO03IPJGR0sZqIMHDZ1FBwkf_coeLihChL6yg2Dus0yRjntms5pKlF_FEuCqrTA3kPGFGQGIAj7H6dtXi7nKftE&#xD;&#xA;Host: localhost:64963&#xD;&#xA;Referer: http://localhost:64963/&#xD;&#xA;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36&#xD;&#xA;Origin: http://localhost:64963&#xD;&#xA;X-Requested-With: XMLHttpRequest&#xD;&#xA;DNT: 1&#xD;&#xA;" />
+    </item>
+    <item name="APPL_MD_PATH">
+      <value string="/LM/W3SVC/5/ROOT" />
+    </item>
+    <item name="APPL_PHYSICAL_PATH">
+      <value string="C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\" />
+    </item>
+    <item name="AUTH_TYPE">
+      <value string="ApplicationCookie" />
+    </item>
+    <item name="AUTH_USER" />
+    <item name="AUTH_PASSWORD">
+      <value string="*****" />
+    </item>
+    <item name="LOGON_USER">
+      <value string="" />
+    </item>
+    <item name="REMOTE_USER" />
+    <item name="CERT_COOKIE">
+      <value string="" />
+    </item>
+    <item name="CERT_FLAGS">
+      <value string="" />
+    </item>
+    <item name="CERT_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SERIALNUMBER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CERT_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CONTENT_LENGTH">
+      <value string="0" />
+    </item>
+    <item name="CONTENT_TYPE">
+      <value string="application/json; charset=utf-8" />
+    </item>
+    <item name="GATEWAY_INTERFACE">
+      <value string="CGI/1.1" />
+    </item>
+    <item name="HTTPS">
+      <value string="off" />
+    </item>
+    <item name="HTTPS_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="INSTANCE_ID">
+      <value string="5" />
+    </item>
+    <item name="INSTANCE_META_PATH">
+      <value string="/LM/W3SVC/5" />
+    </item>
+    <item name="LOCAL_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="PATH_INFO">
+      <value string="/api/bugs/getAll" />
+    </item>
+    <item name="PATH_TRANSLATED">
+      <value string="C:\Users\volkova\SkyDrive\MvcKatana2\MvcKatana2\api\bugs\getAll" />
+    </item>
+    <item name="QUERY_STRING">
+      <value string="" />
+    </item>
+    <item name="REMOTE_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_HOST">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_PORT">
+      <value string="63206" />
+    </item>
+    <item name="REQUEST_METHOD">
+      <value string="POST" />
+    </item>
+    <item name="SCRIPT_NAME">
+      <value string="/api/bugs/getAll" />
+    </item>
+    <item name="SERVER_NAME">
+      <value string="localhost" />
+    </item>
+    <item name="SERVER_PORT">
+      <value string="64963" />
+    </item>
+    <item name="SERVER_PORT_SECURE">
+      <value string="0" />
+    </item>
+    <item name="SERVER_PROTOCOL">
+      <value string="HTTP/1.1" />
+    </item>
+    <item name="SERVER_SOFTWARE">
+      <value string="Microsoft-IIS/8.0" />
+    </item>
+    <item name="URL">
+      <value string="/api/bugs/getAll" />
+    </item>
+    <item name="HTTP_CONNECTION">
+      <value string="keep-alive" />
+    </item>
+    <item name="HTTP_CONTENT_LENGTH">
+      <value string="0" />
+    </item>
+    <item name="HTTP_CONTENT_TYPE">
+      <value string="application/json; charset=utf-8" />
+    </item>
+    <item name="HTTP_ACCEPT">
+      <value string="application/json, text/javascript, */*; q=0.01" />
+    </item>
+    <item name="HTTP_ACCEPT_ENCODING">
+      <value string="gzip,deflate,sdch" />
+    </item>
+    <item name="HTTP_ACCEPT_LANGUAGE">
+      <value string="en-US,en;q=0.8,ru;q=0.6" />
+    </item>
+    <item name="HTTP_COOKIE">
+      <value string="__RequestVerificationToken=4PD_Jqz_Bn9876RMJbNZxuVcsBdD6h_70601wDRwHMPge1rp5cyBerSagKfw4JgyAvj22o47ZcyMjnem_R7UYPRYUSmRUWxAkFprAJTFFrU1; .AspNet.ApplicationCookie=iLL-DB05UkFEfPFv-8p8lG0e6sSRqP6928j1mbqoJWI8lhOX1tcahDjtwOYLMPC1CZyCUOek5MQV6gl-AFMUX9ATr7Wnm3EXkR-AeFM50vexI-HhFp6moYpCowUTDSmsx5nnfjr4at638G6OigQWWxMCbvAC7CZmOzrI-javIEb5gbGIK5RE-36pHNlDcXaBlYEHUZ7n7RixBztcqIcedO03IPJGR0sZqIMHDZ1FBwkf_coeLihChL6yg2Dus0yRjntms5pKlF_FEuCqrTA3kPGFGQGIAj7H6dtXi7nKftE" />
+    </item>
+    <item name="HTTP_HOST">
+      <value string="localhost:64963" />
+    </item>
+    <item name="HTTP_REFERER">
+      <value string="http://localhost:64963/" />
+    </item>
+    <item name="HTTP_USER_AGENT">
+      <value string="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36" />
+    </item>
+    <item name="HTTP_ORIGIN">
+      <value string="http://localhost:64963" />
+    </item>
+    <item name="HTTP_X_REQUESTED_WITH">
+      <value string="XMLHttpRequest" />
+    </item>
+    <item name="HTTP_DNT">
+      <value string="1" />
+    </item>
+  </serverVariables>
+  <cookies>
+    <item name="__RequestVerificationToken">
+      <value string="4PD_Jqz_Bn9876RMJbNZxuVcsBdD6h_70601wDRwHMPge1rp5cyBerSagKfw4JgyAvj22o47ZcyMjnem_R7UYPRYUSmRUWxAkFprAJTFFrU1" />
+    </item>
+    <item name=".AspNet.ApplicationCookie">
+      <value string="iLL-DB05UkFEfPFv-8p8lG0e6sSRqP6928j1mbqoJWI8lhOX1tcahDjtwOYLMPC1CZyCUOek5MQV6gl-AFMUX9ATr7Wnm3EXkR-AeFM50vexI-HhFp6moYpCowUTDSmsx5nnfjr4at638G6OigQWWxMCbvAC7CZmOzrI-javIEb5gbGIK5RE-36pHNlDcXaBlYEHUZ7n7RixBztcqIcedO03IPJGR0sZqIMHDZ1FBwkf_coeLihChL6yg2Dus0yRjntms5pKlF_FEuCqrTA3kPGFGQGIAj7H6dtXi7nKftE" />
+    </item>
+  </cookies>
+</error>
